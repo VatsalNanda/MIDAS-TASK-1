@@ -11,3 +11,7 @@ What all does the repository contain-
 2) The entire code is submitted in the form of a jupyter notebook by the name of 'speech_recog.ipynb'
 
 3) A 'submission.csv' file which as mentioned earlier is not correct.
+
+4) The model.json file to store the model 
+
+5) The model.h5 file to store the weights
