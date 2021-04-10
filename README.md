@@ -8,7 +8,7 @@ What all does the repository contain-
 
 1) The MIDAS TASK-1 is a pdf file which consists of the entire documentation including experiments, observations and results and my inferences. It also consists of plots, graphs and waveforms and the linkd to the references I used.
 
-2) The entire code is submitted in the form of a jupyter notebook by the name of 'speech_recog_xception.ipynb' and can be accessed from here https://jovian.ai/vatsalnanda3/speech-recog-xception by clicking on the Notebook Option.
+2) The entire code is submitted in the form of a jupyter notebook by the name of 'speech_recog_xception.ipynb' and can be accessed from here https://jovian.ai/vatsalnanda3/speech-recog-xception (Version 8) by clicking on the Notebook Option.
 
 3) A 'submission.csv' file which as mentioned earlier is not correct.
 
